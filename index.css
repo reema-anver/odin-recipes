@@ -1,0 +1,31 @@
+body {
+    background-color: rgba(251, 251, 251, 0.852);
+    font-family: sans-serif;
+}
+
+.top {
+    border: 1px solid red;
+    text-align: center;
+    padding-top: 10px;
+}
+button {
+    color: orange;
+    padding: 8px 16px;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: white;
+    border: none;
+    margin-bottom: 5px;
+}
+
+button:hover {
+    background-color: orange;
+    color: white;
+}
+
+.title {
+    color: orangered;
+    margin: 0;
+    margin-bottom: 15px;
+}
+
