@@ -3,7 +3,6 @@ body {
 }
 
 .top {
-    /* border: 1px solid red; */
     text-align: center;
     padding-top: 10px;
     margin-bottom: 20px;
@@ -20,23 +19,10 @@ button {
     margin-bottom: 5px;
 }
 
-/* button:hover {
-    background-color: orange;
-    color: white;
-} */
 a {
     text-decoration: none;
     color: orange;
 }
-
-/* a:hover {
-    color: white;
-} */
-
-/* a {
-    color: white;
-    text-decoration: none;
-} */
 
 .title {
     color: orangered;

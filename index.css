@@ -3,7 +3,6 @@ body {
 }
 
 .top {
-    /* border: 1px solid red; */
     text-align: center;
     padding-top: 10px;
     margin-bottom: 20px;
@@ -31,7 +30,6 @@ button:hover {
 }
 
 .main {
-    /* border: 1px solid green; */
     width: 1200px;
     margin: 0 auto;
     padding: 5px 10px;
@@ -40,7 +38,6 @@ button:hover {
 
 .recipe-card {
     display: inline-block;
-    /* border: 1px solid red; */
     margin-right: 20px;
 }
 
@@ -48,7 +45,6 @@ button:hover {
     width: 300px;
     height: 350px;
     object-fit: cover;
-    /* margin-bottom: 10px; */
 }
 
 .heading {
